@@ -29,6 +29,14 @@
         "app/auth/login/page": "action-browser",
         "app/auth/sign-up/page": "action-browser"
       }
+    },
+    "c2deb1b655eb8feb6fdb37c41a2c5b717c442833": {
+      "workers": {
+        "app/onboarding/page": "(rsc)/./node_modules/.pnpm/next@14.2.16_react-dom@18.3.1_react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fproject%2Fapp%2Fonboarding%2Fpage.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/onboarding/page": "rsc"
+      }
     }
   },
   "edge": {},
